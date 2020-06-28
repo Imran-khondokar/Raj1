@@ -14,7 +14,8 @@ pip2 install requests mechanize
 
 pkg install git
 
-git clone http://github.com/Imran-Khondokar/Raj1.git
+git clone http://github.com/Imran-Khondokar/Raj
+
 
 cd Raj1
 
